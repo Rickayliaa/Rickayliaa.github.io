@@ -1,0 +1,12 @@
+.paragraph {
+    width: 550px;
+    height: 200px;
+    border: 7px double pink;
+    border-radius: 10px;
+    text-align: center;
+    margin:auto;
+}
+
+h1 {
+    text-align: center;
+}
